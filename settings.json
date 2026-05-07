@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "playsword.play.hosting",
-    "port": 3654,
+    "port": 10000,
     "version": "",
     "try-creative": false
   },
