@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CCHSSERVER.aternos.me:25928",
+    "ip": "pickerel.aternos.host:25928",
     "port": 25928,
     "version": "",
     "try-creative": false
