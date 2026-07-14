@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFKBOT",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "CCHSSERVER.aternos.me",
-    "port":  25928,
+    "port": 25928,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 1000,
+    "x": 10000,
     "y": 100,
-    "z": 1000
+    "z": 10000
   },
   "utils": {
     "auto-auth": {
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": false,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
