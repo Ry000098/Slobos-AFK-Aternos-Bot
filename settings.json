@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBOT16",
   "bot-account": {
-    "username": "AFK-BOT",
+    "username": "AFKBOT16",
     "password": "",
     "type": "offline"
   },
@@ -27,13 +27,16 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 450,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "The site is under maintenance",
+        "الموقع تحت الصيانة",
+        "ترجو منكم الادارة اللعب بنظافة لمتعة وتحدي اكبر",
+        "ادارة سيرفر فن السيف تتمنى لكم لعب ممتع",
+        "الغش يعرضك لعقوبات قد تصل الى التبنيد الفوري وبدون نقاش",
+        "يرجى منكم عدم البناء امام السبون وعدم التخريب"
       ]
     },
     "chat-log": true,
