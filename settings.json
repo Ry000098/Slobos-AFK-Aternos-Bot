@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "74.162.100.188",
+    "ip": "orca-shark-85.orc.host",
     "port": 25565,
     "version": "",
     "try-creative": false
